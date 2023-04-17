@@ -1,2 +1,6 @@
 # Add-to-cart-React
-Simple add to food order app made with React by using props, most of hooks, custom components.
+Food order app made with React by using props, most of hooks, portals and custom components.
+App made with dummy data, responsive design.
+
+# Run the application
+npm start
